@@ -81,7 +81,7 @@ const Home = () => {
         <p className="mt-8">
           Join Posthub for more personalized stories and insights!
         </p>
-        <Link to="/blogs" className="mt-4 inline-block">
+        <Link to="/signin" className="mt-4 inline-block">
           <button
             type="button"
             className="mt-4 px-6 py-2 bg-black text-white font-medium rounded-md hover:bg-gray-800 transition-all duration-300"
